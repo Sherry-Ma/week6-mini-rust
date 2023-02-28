@@ -1,4 +1,4 @@
-# Week5 mini rust project -- Paper Scissors Stone
+# Week6 mini rust project -- Triangle Area Calculator
 This project is a command line tool that calculate the area of a triangle.
 
 Type `cargo run`
